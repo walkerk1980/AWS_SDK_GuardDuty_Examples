@@ -7,9 +7,9 @@ using Amazon;
 using Amazon.GuardDuty;
 using Amazon.GuardDuty.Model;
 
-namespace ConsoleApp1
+namespace Examples
 {
-    class Program
+    class GDListFindingsWCriteriaExample
     {
         static void Main(string[] args)
         {
